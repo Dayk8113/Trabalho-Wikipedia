@@ -1,0 +1,55 @@
+@font-face {
+    font-family: Montserrat;
+    src:url(Montserrat-Medium.ttf);
+}div{
+    height: 90%;
+    background-color: rgb(255, 255, 255);
+    border: 30px solid #eFeFeF ;
+    
+}body{
+    font-family: "Montserrat";
+    background-color:#eFeFeF;
+}.margem{
+    margin-left: 60px;
+}.margem1{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: -10px;
+}.aga1{
+    margin-left: 110px;
+}.div{
+    Width: 385px;
+    Height: 80px;
+    Border: 1px solid Black;
+    margin-left: 100px;
+    margin-top: 50px;
+    Background-color:#70C3FF;
+}.div2{
+    Width: 385px;
+    Height: 275px;
+    margin-left: 100px;
+    Border: 1px solid Black;
+}ul{
+    margin-left: 80px;
+    margin-bottom: -15px;
+    font-size: 28px;
+}p{
+    margin: 60px;
+    margin-bottom: -50px;
+}.margem3{
+    margin-left: 60px;
+    font-size: xx-large;
+}.margem4{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+}.margemtopo{
+    margin-top: -10px;
+    margin-bottom: 10px;
+}.margem5{
+    margin-left: 60px;
+    font-size: xx-large;
+    margin-top: 80px;
+}.marginboton{
+    margin-bottom: 40px;
+}

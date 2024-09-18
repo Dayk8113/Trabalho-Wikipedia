@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Montserrat;
+    src:url(Montserrat-Medium.ttf);
+}.alinhamento{
+    text-align: center;
+
+}.aga1{
+    text-align: center;
+    margin-top: 80px;}
+.tamanho{
+    font-size: 20px;
+    margin: 60px;
+}.vejamais{
+    margin-top: 60px;
+    text-align: center;
+    font-size: 20px;
+}body{
+    font-family: "Montserrat";
+    background-color:#EFEFEF;
+    ;
+}.barra{
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 5px;
+  margin-left: 550px;
+  margin-right: 550px;
+  margin-top: -15px;
+  text-align: center;
+
+
+}
+.margem{
+    margin-left: 60px;
+}
+.margem1{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: -10px;
+}
